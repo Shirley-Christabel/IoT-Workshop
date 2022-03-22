@@ -13,9 +13,9 @@
 #include <DHT_U.h>
 
 //#define WIFI_SSID "COE CHROMIUM"
-//#define WIFI_PASSWORD "WIFI_PASSWORD"
-#define FIREBASE_HOST "iot-wrkshop-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "UJJRHOBQqDAcW67bLX0l6BZl0b0uLS96Y2MnphLV"
+//#define WIFI_PASSWORD "Welcome@123"
+#define FIREBASE_HOST "iot-workshop-848e7-default-rtdb.firebaseio.com"
+#define FIREBASE_AUTH "Dpw5e3xNXX0bOxZztBe8lZQRDK68hcoicTAvueMn"
 #define DHTPIN 2
 #define DHTTYPE    DHT11
 
